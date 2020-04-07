@@ -1,0 +1,11 @@
+Op2
+feladat1.bz2
+findTest
+findtest.tar.bz2
+hello.txt
+hello.txt.bz2
+ora0331
+rsynctest
+tar
+tartest
+test2
